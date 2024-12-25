@@ -1,0 +1,19 @@
+nav{
+    background-color: rgba(240, 248, 255, 0.097);
+}
+.nav__ul-activ{
+    padding: 5px 10px;
+    background-color: rgba(0, 0, 0, 0.323);
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: black;
+}
+.bagrount__img-1{
+    background-image: url(.//img/bubble-full-screen-hd-desktop-n7n08rrgcei7kigb.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+.footer{
+    background-color: rgba(0, 0, 0, 0.403);
+}
